@@ -1,8 +1,7 @@
 #include <unistd.h>
 /**
- * main - program execution begins here 
- *
- * Return:uses  1 (Success)
+ * main: program execution begins here 
+ * Return: uses 1 (Success)
  */
 int main(void)
 {
