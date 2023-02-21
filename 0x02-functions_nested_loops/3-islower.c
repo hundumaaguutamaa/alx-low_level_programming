@@ -2,10 +2,7 @@
 
 /**
  * _islower - Shows 1 if the input is a
- * lowercase character. Another cases, shows 
- *
- * @c: The character in ASCII code
- *
+ * lowercase character. Another cases, show
  * Return: 1 for lowercase character else 0. 
  */
 int _islower(int c)
