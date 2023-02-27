@@ -3,7 +3,7 @@
 /**
  * reset_to_98 - Reset the value of the variable to 98
  * @n: a pointer to the variable 
- * Return: no return.
+ * Return: No return 
  */
 void reset_to_98(int *n)
 {
