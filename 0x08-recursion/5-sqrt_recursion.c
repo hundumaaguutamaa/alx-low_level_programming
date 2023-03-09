@@ -2,9 +2,9 @@
 
 /**
  * power_operation - Returns the natural square root of a number
- * @n: input number.
- * @r: iterator.
- * Return: Returns square root or -1.
+ * @n: input number
+ * @r: iterator
+ * Return: square root or -1.
  */
 int power_operation(int n, int r)
 {
