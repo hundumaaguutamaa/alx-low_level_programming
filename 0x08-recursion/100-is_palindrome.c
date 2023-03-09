@@ -30,7 +30,9 @@ int comparator(char *s, int n1, int n2)
 	}
 	return (0);
 }
-
+/**
+ *is_pallindrome - checks if pallindrome
+ */
 int is_palindrome(char *s)
 {
 	if (*s == '\0')
