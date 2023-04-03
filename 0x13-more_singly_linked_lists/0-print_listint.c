@@ -1,10 +1,10 @@
 #include "Lists.h"
 
 /**
-* print_Listint - 
+* print_Listint - function to print list
 *
-* @h: 
-* Return: 
+* @h: pointer to struct
+* Return: number of nodes
 */ 
 
 size_t print_listint(const listint_t *h)
