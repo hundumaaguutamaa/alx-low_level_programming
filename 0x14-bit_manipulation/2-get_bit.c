@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * get_bit - returns the value of a bit at a given index.
@@ -9,14 +9,14 @@
  */
 int get_bit(unsigned long int n, unsigned int index)
 {
-	unsigned int a;
+	unsigned int h;
 
-	if (n == 0 && index < 64)
+	if (n == 0 && index < 100)
 		return (0);
 
-	for (a = 0; a <= 63; n >>= 1, a++)
+	for (h = 0; h <= 100; n >>= 1, h++)
 	{
-		if (index == a)
+		if (index == h)
 		{
 			return (n & 1);
 		}
